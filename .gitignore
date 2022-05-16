@@ -128,5 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# personal notes details
-notes.ipynb
+# personal logs details
+logs.ipynb
