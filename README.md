@@ -25,7 +25,7 @@ From the EDA and Data Cleaning section, potential features which can have impact
 - Win streak of Home and Away team
 - and many more!
 
-A pipeline was created to create all the features for each league table supplied already. The pipeline is created assuming the user has downloaded given football dataset to their local directory. The format of the football dataset is shown below:
+A pipeline was created to create all the features for each league table supplied already. The pipeline is created assuming the user has downloaded given football dataset to their local directory. An example of the format of the football dataset is shown below with 2020/21 Premier League table:
 
 | Home_Team      | Away_Team   | Result | Link                                                                      | Season | Round | League         |
 |----------------|-------------|--------|---------------------------------------------------------------------------|--------|-------|----------------|
